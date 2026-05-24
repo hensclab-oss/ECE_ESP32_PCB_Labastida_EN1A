@@ -2,12 +2,11 @@
 
 ## 📖 Project Description
 
-The **NPK Soil Monitoring PCB System** is a custom-designed Printed Circuit Board (PCB) created to monitor important soil nutrients used for plant growth and agricultural applications. The project is focused on measuring the levels of **Nitrogen (N)**, **Phosphorus (P)**, and **Potassium (K)** in the soil using sensor technology connected to a microcontroller system.
+The **NPK Soil SENSOR**  is used to measure the levels of Nitrogen (N), Phosphorus (P), and Potassium (K) in the soil. These three nutrients are essential for healthy plant growth and are commonly used in agriculture, gardening, and smart farming systems. The sensor helps farmers and researchers monitor soil fertility and determine the right amount of fertilizer needed for crops.
 
-This PCB was designed using **EasyEDA** to create a simple, organized, and functional circuit layout suitable for student-level electronics engineering applications. The system helps demonstrate the basic process of PCB designing, schematic creation, sensor interfacing, and electronic circuit organization.
+The system utilizes an NPK sensor connected to an Arduino Uno to collect and display real-time soil data. By analyzing the nutrient levels, farmers and gardeners can determine the appropriate amount of fertilizer needed for the soil, helping reduce resource waste while improving crop quality and yield.
 
-The project aims to provide a beginner-friendly and understandable approach to smart agriculture technology while improving practical engineering skills in PCB development and project documentation using GitHub.
-
+This project highlights the application of technology in modern agriculture by providing a faster, more accurate, and efficient method of soil monitoring and nutrient management.The project aims to help farmers and gardeners monitor soil conditions more efficiently and make better decisions for crop management.
 ---
 
 # ✨ Features
