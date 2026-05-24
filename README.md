@@ -29,7 +29,7 @@ The project aims to provide a beginner-friendly and understandable approach to s
 - NPK Soil Sensor
 - Resistors
 - Capacitors
-- LEDs
+- LCD
 - Voltage Regulator
 - Arduino Uno
 - Terminal Blocks
