@@ -12,7 +12,7 @@ This project highlights the application of technology in modern agriculture by p
 
 #  Features
 
----
+
 
 # Components Used
 
@@ -25,7 +25,7 @@ This project highlights the application of technology in modern agriculture by p
 - Arduino Uno
 - Terminal Blocks
 
----
+
 
 # Software Used
 
@@ -33,7 +33,7 @@ This project highlights the application of technology in modern agriculture by p
 - Arduino IDE
 - GitHub
 
----
+
 
 # Repository Structure
 
@@ -44,14 +44,14 @@ ECE_ESP32_PCB_Labastida_EN1A/
 ├── source/
 └── README.md
 
----
+
 
 
 # Author
 
 **Hennesy Labastida**
 
----
+
 
 #  Course & Section
 
