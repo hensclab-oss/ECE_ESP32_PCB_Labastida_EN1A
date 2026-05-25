@@ -11,7 +11,7 @@ This project highlights the application of technology in modern agriculture by p
 
 
 #  Features
--Portable 
+- Portable 
 - Rechargable
 - Controlled Voltage Output
 - Measures the NPK Content in soil
