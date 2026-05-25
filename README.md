@@ -43,10 +43,10 @@ This project highlights the application of technology in modern agriculture by p
 
 ECE_ESP32_PCB_Labastida_EN1A/
 │
-├── gerber/
-├── images/
-├── source/
-└── README.md
+- ├── gerber/
+- ├── images/
+- ├── source/
+- └── README.md
 
 
 
