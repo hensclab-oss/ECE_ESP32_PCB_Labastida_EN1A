@@ -20,14 +20,14 @@ This project highlights the application of technology in modern agriculture by p
 
 # Components Used
 
-- ESP32 Microcontroller
 - NPK Soil Sensor
-- Resistors
+- LM2596 DC-DC Step Down Voltage Converter
+- SINGLE -Channel Relay Module
 - Capacitors
 - LCD
 - Voltage Regulator
 - Arduino Uno
-- Terminal Blocks
+  
 
 
 
